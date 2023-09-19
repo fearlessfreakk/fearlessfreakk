@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fearlessfreakk
+- 👀 I’m interested in games , AI , robotics.
+- 🌱 I’m currently learning c++.
+- 💞️ I’m looking to learn from people around here.
+- 📫 you can reach me via discord Player1#3109.
