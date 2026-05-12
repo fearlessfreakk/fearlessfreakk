@@ -1,5 +1,10 @@
-- 👋 Hi, I’m @fearlessfreakk
-- 👀 I’m interested in games , AI , robotics.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to learn from people around here.
-- 📫 you can reach me via discord Player1#3109.
+<h1 align="center">Arup Mishra</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer</strong> focused on <strong>Next.js</strong> and <strong>AI</strong> integration.<br>
+  Currently cranking leetcode lever to the max with <strong>C++</strong>.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,mongodb,cpp,py" />
+</p>
